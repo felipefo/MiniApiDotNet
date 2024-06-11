@@ -15,7 +15,7 @@ builder.Services.AddDbContext<TodoDb>(opt => opt.UseSqlite("Data Source=TodoData
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 // Configuração de Autenticação JWT
-var key = Encoding.ASCII.GetBytes("your_secret_key_here");
+var key = Encoding.ASCII.GetBytes("minha_chave_secreta_nem_um_tanto_secreta");
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {

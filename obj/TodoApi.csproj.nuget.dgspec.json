@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj": {}
+    "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj": {
+    "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\obj\\",
+        "outputPath": "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

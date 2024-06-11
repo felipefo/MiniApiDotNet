@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MHKhGuRHDmHPsbasUcCshup75qw/kC+tVGVvvZcqtaJubFaPeqoZsfB2YTRf/nlqTLaVrpWj7FqhZxnP4z/FNA==",
+  "dgSpecHash": "yfKSrPJlsfTR1H+TyB81gVh4lL61RCMwLQlCc5dc9pUjS7C9LKpbdQDMTXwT1ppBwssDjn1UGQO4MnGNNDD/bg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj",
+  "projectFilePath": "c:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

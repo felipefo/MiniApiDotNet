@@ -6046,11 +6046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Downloads\\MiniApiDotNet-main\\MiniApiDotNet-main\\obj\\",
+      "outputPath": "C:\\Users\\felip\\miniapi\\TodoMiniApi\\MiniApiDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
