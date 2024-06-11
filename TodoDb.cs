@@ -1,4 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using TodoApi.Models;
+
+
 
 public class TodoDb : DbContext
 {
@@ -6,4 +9,5 @@ public class TodoDb : DbContext
         : base(options) { }
 
     public DbSet<Todo> Todos => Set<Todo>();
+    public DbSet<User> Users { get; set; } // Adicionar DbSet para Users
 }
