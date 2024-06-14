@@ -1,6 +1,8 @@
 # MiniApiDotNet
  Mini api usando o sqlite em dot net para todo 
 
+# Notas
+A senha nao esta sendo sala cripritografada. E não se deve deixar a senha do jwt token no repositorio.
 
 # Usando 
 - Faça o checkout do repositorio 
